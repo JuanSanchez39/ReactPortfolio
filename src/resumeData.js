@@ -82,9 +82,9 @@ let resumeData = {
         "imgurl":"../../images/global.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Astronomy Calendar",
+        "description":"Calendar",  
+        "imgurl":"../../images/Screenshot 2023-05-15 211523.png"
       },
       {
         "name":"project4",
@@ -94,7 +94,7 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"",
+        "description":"Phenomenal client services",
         "name":""
       },
       {
